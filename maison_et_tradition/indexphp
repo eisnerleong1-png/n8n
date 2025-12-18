@@ -1,0 +1,7 @@
+<?php
+/* Fichier auto-généré pour Maison et Tradition */
+$content = "Nom: Maison et Tradition<br>Secteur: Immobilier et Construction<br>Lieux: Antananarivo<br>Services: Construction de maisons, promotion immobilière, accompagnement à la propriété<br>Problématique identifiée: Nécessité absolue de rassurer le client sur la qualité et la fiabilité des constructions à travers une image de marque irréprochable et moderne.<br>Fonctionnalités clés à montrer: Portfolio de réalisations haute définition, témoignages clients, présentation de l'équipe pour humaniser, formulaire de projet intuitif.";
+echo "<h1>Fiche de " . "Maison et Tradition" . "</h1>";
+echo "<div>" . $content . "</div>";
+echo '<img src="logo.jpg" alt="Logo">';
+?>
